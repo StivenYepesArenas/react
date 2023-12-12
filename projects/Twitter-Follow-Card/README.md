@@ -2,16 +2,6 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-# Objetivos:
-
-**React Hooks (useState, useEffect) **
-**React Components**
-**Fetch API**
-**Bootstrap - for styling**
-Pagination
-Search bar
-Data Filtering
-Dynamic Routing
 
 Currently, two official plugins are available:
 
