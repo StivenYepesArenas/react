@@ -5,12 +5,12 @@
 
 # Objetivos:
 
-**React Hooks (useState, useEffect) **
-**React Components**
-**Fetch API**
-**Bootstrap - for styling**
+** (x) React Hooks (useState, useEffect) **
+** (x) React Components**
+** (x) Fetch API**
+** (x) Bootstrap - for styling**
 Pagination
-Search bar
+** (x) Search bar **
 Data Filtering
 Dynamic Routing
 
