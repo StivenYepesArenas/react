@@ -1,7 +1,7 @@
 import styles from "./Search.module.scss";
 
 // eslint-disable-next-line react/prop-types
-const Search = ({ setSearch, updatePageNumber }) => {
+const Search = ({ setSearch, setPage }) => {
   let searchBtn = (e) => {
     e.preventDefault();
   };
@@ -11,7 +11,7 @@ const Search = ({ setSearch, updatePageNumber }) => {
     >
       <input
         onChange={(e) => {
-          updatePageNumber(1);
+          setPage(1);
           setSearch(e.target.value);
         }}
         placeholder="Search for characters"
