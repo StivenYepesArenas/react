@@ -9,7 +9,7 @@
 ** (x) React Components**
 ** (x) Fetch API**
 ** (x) Bootstrap - for styling**
-Pagination
+** (x)Pagination **
 ** (x) Search bar **
 Data Filtering
 Dynamic Routing
